@@ -1,187 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:1F6FEB,100:7C3AED&text=Owais%20Raza&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Backend%20Generative%20AI%20Engineer&descAlignY=57&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,50:1E3A5F,100:58C9A7&text=Owais%20Raza&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%C2%B7%20Chennai%2C%20India&descAlignY=60&descSize=17" width="100%" alt="Owais Raza — Backend and AI Engineer in Chennai" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Generative+AI+%E2%80%A2+RAG+%E2%80%A2+Multimodal+Retrieval;Python+%E2%80%A2+FastAPI+%E2%80%A2+Distributed+Systems;Building+Production+AI+Platforms" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/owaisraza1704/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:owaisraza1704@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/RazaNaqsh">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Chennai-India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://github.com/owaisraza1704"><img src="https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/owaisraza1704/"><img src="https://img.shields.io/badge/LinkedIn-Say%20hello-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:owaisraza1704@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-667085?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Backend-focused Generative AI Engineer** with **2 years of experience** building production AI platforms and distributed backend services.
-
-My work focuses on the engineering layer behind reliable AI systems: **RAG, multimodal retrieval, agentic workflows, LLM inference, and scalable microservices**.
-
-~~~text
-Backend Engineering → Distributed Systems → Generative AI
-        → RAG → Agentic Workflows → Production AI Platforms
-~~~
-
-* 🧠 Building **agentic AI workflows** with structured LLM outputs
-* 🔎 Engineering **RAG and multimodal retrieval** systems
-* ⚡ Developing asynchronous services with **FastAPI, Celery, and Redis**
-* 🖥️ Deploying self-hosted LLM inference with **vLLM**
-* ☁️ Operating production platforms on **Azure** with Docker
-* 🏗️ Designing reliable **microservices and distributed backend systems**
-
----
-
-## 🧠 AI Systems
-
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multimodal_Retrieval-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_Workflows-DC2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Inference-059669?style=for-the-badge" />
-</p>
-
-RAG · Document Understanding · Multimodal Retrieval · Agentic Workflows · CrewAI · Structured LLM Outputs · Azure OpenAI · LLM Inference
-
-### ⚡ AI Infrastructure
-
-vLLM · Model Serving · Self-Hosted Inference · Offline LLM Deployment · GPU VM Deployment · LLM Platform Engineering
-
----
-
-## ☕ Backend & Software Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgres,redis,docker" />
-</p>
-
-**Backend**
-
-Python · FastAPI · REST APIs · Async Programming · WebSockets · Microservices · Celery · Distributed Systems
-
-**Architecture**
-
-API Design · Asynchronous Processing · Worker Concurrency · Event-Driven Workflows · Service Routing · Scalable Backend Systems
-
----
-
-## 🖥️ Product Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
-</p>
-
-Python · JavaScript · TypeScript
-
----
-
-## 🛠️ DevOps & Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,nginx,git,linux" />
-</p>
-
-Azure · Docker · Docker Compose · NGINX · Git · Keycloak · PostgreSQL · pgvector · Redis
-
----
-
-## 💼 Experience
-
-### Tata Consultancy Services Limited — System Engineer
-
-* **Aug 2024 – Present** · Chennai, India
-* Migrated CrewAI multi-agent execution from FastAPI BackgroundTasks to **Celery and Redis**, achieving zero server crashes and 100% downstream API success in 30–50 concurrent-request load tests.
-* Automated dynamic CrewAI agent creation by converting business documents into structured agent configurations through **RAG-based document understanding** and structured LLM outputs.
-* Architected a **multimodal RAG pipeline** combining vision retrieval with text-based retrieval, improving retrieval accuracy for complex data by approximately 30–50%.
-* Deployed offline, self-hosted LLM inference with **vLLM** for high-security and air-gapped client environments.
-* Operationalized a 20+ service microservice platform on **Azure VMs** using Docker, Docker Compose, NGINX, PostgreSQL, and GPU VMs.
-* Reduced data repository API latency from approximately 4–5 seconds to under 1 second through schema optimization, payload minimization, pagination, and WebSockets.
-
----
-
-## 🔬 Currently Exploring
-
-<table>
-<tr>
-<td valign="top">
-
-### AI / ML
-
-* Generative AI applications
-* RAG systems
-* Document understanding
-* Multimodal retrieval
-* Structured LLM outputs
-* Agentic workflows
-
-</td>
-<td valign="top">
-
-### AI Infrastructure
-
-* LLM inference
-* vLLM model serving
-* Self-hosted deployment
-* GPU VM infrastructure
-* Asynchronous AI workloads
-* Production AI platforms
-
-</td>
-<td valign="top">
-
-### Backend Systems
-
-* Distributed systems
-* Microservices
-* Celery worker architecture
-* Redis-based processing
-* WebSockets
-* Azure deployments
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Open To
-
-**Backend Generative AI Engineer** · **AI Engineer** · **Python / FastAPI Engineer** · **RAG Engineer** · **LLM Systems Engineer**
-
-I'm particularly interested in teams building **production AI platforms, agentic workflows, multimodal retrieval systems, LLM infrastructure, and distributed backend services**.
-
----
+<br />
 
 <div align="center">
 
-### Build reliable AI platforms. Engineer beyond the model.
+### I’m fascinated by the machinery around an intelligent answer.
 
-<br/>
+What does a system remember? What can it prove? How does an idea become an action someone can understand?
 
-<a href="https://www.linkedin.com/in/owaisraza1704/">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</div>
 
-<a href="mailto:owaisraza1704@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Build-Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+That curiosity takes me through AI and the foundations underneath it: context and memory, retrieval and evidence, agent tools and shared application state, plus the backend systems that make each piece hold together.
 
-<br/><br/>
+## ✦ Questions I keep coming back to
 
-<i>Engineering production AI systems — from backend infrastructure to intelligent workflows.</i>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Context & memory</h3>
+      <p>What should a system carry forward? How can it keep the useful context without losing track of where a thought began?</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 Evidence & retrieval</h3>
+      <p>Can an answer show where it came from—and recognize when its sources do not support a confident response?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Agency & interfaces</h3>
+      <p>When software can take action, how does a person see what changed, steer the process, and confirm the important steps?</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Learning & evaluation</h3>
+      <p>What helps someone build real understanding? What evidence tells us that a model or workflow has become more useful?</p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,45:1F6FEB,100:7C3AED" width="100%" />
+## ⌁ Rabbit holes I enjoy
+
+I like tracing invisible things until they become tangible: a thread waiting for a scheduler, a task moving through a queue, an event reaching a subscriber, a stream updating a page. **Processes · threads · scheduling · memory · polling · pub/sub · streaming** — I return to these because understanding the mechanism changes how I think about the experience built on top of it.
+
+## ↗ How I learn
+
+<div align="center">
+
+<b>Notice a question</b> &nbsp; → &nbsp; <b>Build a small path</b> &nbsp; → &nbsp; <b>Make it observable</b> &nbsp; → &nbsp; <b>Write down what changed</b>
+
+</div>
+
+I learn by making an idea something I can inspect, then writing down what surprised me. The boundary questions—what state survived, where evidence came from, who can take the next action—are often the ones I find most interesting.
+
+<div align="center">
+
+*Building systems that are useful, understandable, and trustworthy for the people relying on them.*
 
 </div>

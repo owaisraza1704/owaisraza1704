@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,50:1E3A5F,100:58C9A7&text=Owais%20Raza&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%C2%B7%20Chennai%2C%20India&descAlignY=60&descSize=17" width="100%" alt="Owais Raza — Backend and AI Engineer in Chennai" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:111827,50:1E3A5F,100:58C9A7&amp;text=Owais%20Raza&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=38&amp;desc=AI%20Systems%20%C2%B7%20Backend%20Engineering&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Owais Raza — Backend and AI Engineer" />
 
-<a href="https://github.com/owaisraza1704"><img src="https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/owaisraza1704/"><img src="https://img.shields.io/badge/LinkedIn-Say%20hello-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:owaisraza1704@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-667085?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/owaisraza1704"><img src="https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/owaisraza1704/"><img src="https://img.shields.io/badge/LinkedIn-Say%20hello-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:owaisraza1704@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-667085?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -25,21 +25,21 @@ That curiosity takes me through AI and the foundations underneath it: context an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Context & memory</h3>
+      <h3>🧠 Context &amp; memory</h3>
       <p>What should a system carry forward? How can it keep the useful context without losing track of where a thought began?</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 Evidence & retrieval</h3>
+      <h3>🔎 Evidence &amp; retrieval</h3>
       <p>Can an answer show where it came from—and recognize when its sources do not support a confident response?</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Agency & interfaces</h3>
+      <h3>🤝 Agency &amp; interfaces</h3>
       <p>When software can take action, how does a person see what changed, steer the process, and confirm the important steps?</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Learning & evaluation</h3>
+      <h3>🌱 Learning &amp; evaluation</h3>
       <p>What helps someone build real understanding? What evidence tells us that a model or workflow has become more useful?</p>
     </td>
   </tr>
@@ -53,7 +53,7 @@ I like tracing invisible things until they become tangible: a thread waiting for
 
 <div align="center">
 
-<b>Notice a question</b> &nbsp; → &nbsp; <b>Build a small path</b> &nbsp; → &nbsp; <b>Make it observable</b> &nbsp; → &nbsp; <b>Write down what changed</b>
+<b>Notice a question</b>　→　<b>Build a small path</b>　→　<b>Make it observable</b>　→　<b>Write down what changed</b>
 
 </div>
 

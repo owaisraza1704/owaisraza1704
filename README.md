@@ -5,7 +5,7 @@
 <a href="https://github.com/owaisraza1704"><img src="https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/owaisraza1704/"><img src="https://img.shields.io/badge/LinkedIn-Say%20hello-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:owaisraza1704@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-667085?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-
+![](https://komarev.com/ghpvc/?username=owaisraza1704&color=blue)
 </div>
 
 <br />
